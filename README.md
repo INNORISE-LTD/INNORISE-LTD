@@ -31,7 +31,7 @@ Cross-platform
     <img src="https://skillicons.dev/icons?i=flutter" />
   </a>
 </p>
-Editors:
+<h1>Cloud solutions</h1>
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,android" />
