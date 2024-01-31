@@ -40,13 +40,13 @@ Cross-platform
 <h1>CI/CD</h1>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=Jenkins" />
+    <img src="https://skillicons.dev/icons?i=jenkins" />
   </a>
 </p>
 
-<h1>CI/CD</h1>
+<h1>Web servers</h1>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=Jenkins" />
+    <img src="https://skillicons.dev/icons?i=nginx" />
   </a>
 </p>
