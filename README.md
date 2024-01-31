@@ -1,4 +1,4 @@
-<h1>Web development</h1>
+<h3>Web development</h3>
 Frontend
 <p>
   <a href="https://skillicons.dev">
