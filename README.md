@@ -6,15 +6,15 @@ At Innorise Ltd, we are your trusted partner in navigating the ever-evolving lan
 
 Our extensive expertise spans a wide spectrum of IT and software domains, including but not limited to:
 
-Software Development: Our talented developers are adept at crafting bespoke software solutions tailored to your unique business needs. From web and mobile applications to enterprise software, we bring your ideas to life with precision and efficiency.
+<b></b>Software Development: Our talented developers are adept at crafting bespoke software solutions tailored to your unique business needs. From web and mobile applications to enterprise software, we bring your ideas to life with precision and efficiency.
 
-IT Strategy: We understand that technology is a powerful driver of business success. Our consultants work closely with you to formulate IT strategies that align with your organizational goals, ensuring that technology enhances your competitive edge.
+<b>IT Strategy:</b> We understand that technology is a powerful driver of business success. Our consultants work closely with you to formulate IT strategies that align with your organizational goals, ensuring that technology enhances your competitive edge.
 
-Cybersecurity: Protecting your digital assets is paramount in today's interconnected world. We offer cutting-edge cybersecurity solutions to safeguard your data, systems, and customer trust.
+<b>Cybersecurity:</b> Protecting your digital assets is paramount in today's interconnected world. We offer cutting-edge cybersecurity solutions to safeguard your data, systems, and customer trust.
 
-Cloud Services: Harness the power of the cloud with our cloud architecture and migration services. We help you leverage cloud technologies for scalability, cost-efficiency, and agility.
+<b>Cloud Services:</b> Harness the power of the cloud with our cloud architecture and migration services. We help you leverage cloud technologies for scalability, cost-efficiency, and agility.
 
-Data Analytics: Turn data into actionable insights with our data analytics services. Our experts help you make informed decisions and unlock hidden opportunities within your data.
+<b>Data Analytics:</b> Turn data into actionable insights with our data analytics services. Our experts help you make informed decisions and unlock hidden opportunities within your data.
 
 <h2>Why Choose Us?</h2>
 
