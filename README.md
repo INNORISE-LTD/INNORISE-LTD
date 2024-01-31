@@ -16,7 +16,7 @@ Cloud Services: Harness the power of the cloud with our cloud architecture and m
 
 Data Analytics: Turn data into actionable insights with our data analytics services. Our experts help you make informed decisions and unlock hidden opportunities within your data.
 
-Why Choose Us?
+<h2>Why Choose Us?</h2>
 
 Client-Centric Approach: Your success is our priority. We take the time to understand your business, challenges, and goals to deliver tailored solutions that drive results.
 
@@ -28,7 +28,7 @@ Proven Track Record: With a portfolio of successful projects and satisfied clien
 
 Partnership: We view our clients as long-term partners. We're here to support your growth and evolution, adapting our services to meet your changing needs.
 
-Let's Shape Your Digital Future
+<h2>Let's Shape Your Digital Future</h2>
 
 In a world where technology is the driving force behind progress, partnering with [Your Company Name] means having a dedicated team of experts by your side. Together, we'll leverage technology to propel your business to new heights.
 
