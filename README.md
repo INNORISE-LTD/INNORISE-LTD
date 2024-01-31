@@ -1,11 +1,11 @@
 <h2>Web development</h2>
-Frontend
+<b>Frontend</b>
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=astro,react,nextjs" />
   </a>
 </p>
-Backend
+<b>Backend</b>
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,bun,typescript,mongodb,redis" />
