@@ -13,13 +13,13 @@ Backend
 </p>
 
 <h2>Mobile development</h2>
-Android
+<b>Android</b>
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=kotlin,java" />
   </a>
 </p>
-IOS
+<b>IOS</b>
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=swift" />
