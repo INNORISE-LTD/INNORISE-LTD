@@ -34,6 +34,19 @@ Cross-platform
 <h1>Cloud solutions</h1>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,android" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,heroku" />
+  </a>
+</p>
+<h1>CI/CD</h1>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=Jenkins" />
+  </a>
+</p>
+
+<h1>CI/CD</h1>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=Jenkins" />
   </a>
 </p>
