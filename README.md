@@ -18,15 +18,15 @@ Our extensive expertise spans a wide spectrum of IT and software domains, includ
 
 <h2>Why Choose Us?</h2>
 
-Client-Centric Approach: Your success is our priority. We take the time to understand your business, challenges, and goals to deliver tailored solutions that drive results.
+<b>Client-Centric Approach:</b> Your success is our priority. We take the time to understand your business, challenges, and goals to deliver tailored solutions that drive results.
 
-Technical Excellence: Our team comprises top-notch professionals with a passion for innovation. We stay up-to-date with the latest trends and technologies to ensure you receive cutting-edge solutions.
+<b>Technical Excellence:</b> Our team comprises top-notch professionals with a passion for innovation. We stay up-to-date with the latest trends and technologies to ensure you receive cutting-edge solutions.
 
-Reliability: Count on us for reliable and scalable IT solutions. We are committed to delivering on time and within budget, without compromising on quality.
+<b>Reliability:</b> Count on us for reliable and scalable IT solutions. We are committed to delivering on time and within budget, without compromising on quality.
 
-Proven Track Record: With a portfolio of successful projects and satisfied clients, we have a track record that speaks for itself.
+<b>Proven Track Record:</b> With a portfolio of successful projects and satisfied clients, we have a track record that speaks for itself.
 
-Partnership: We view our clients as long-term partners. We're here to support your growth and evolution, adapting our services to meet your changing needs.
+<b>Partnership:</b> We view our clients as long-term partners. We're here to support your growth and evolution, adapting our services to meet your changing needs.
 
 <h2>Let's Shape Your Digital Future</h2>
 
