@@ -31,7 +31,7 @@ Cross-platform
     <img src="https://skillicons.dev/icons?i=flutter" />
   </a>
 </p>
-<h1>Cloud solutions</h1>
+<h2>Cloud solutions</h2>
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,gcp,heroku" />
@@ -50,7 +50,7 @@ Cross-platform
     <img src="https://skillicons.dev/icons?i=nginx" />
   </a>
 </p>
-<h1>Containers</h1>
+<h2>Containers</h2>
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker" />
