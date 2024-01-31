@@ -12,7 +12,7 @@ Backend
   </a>
 </p>
 
-<h1>Mobile development</h1>
+<h2>Mobile development</h2>
 Android
 <p>
   <a href="https://skillicons.dev">
@@ -37,14 +37,14 @@ Cross-platform
     <img src="https://skillicons.dev/icons?i=aws,gcp,heroku" />
   </a>
 </p>
-<h1>CI/CD</h1>
+<h2>CI/CD</h2>
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=jenkins" />
   </a>
 </p>
 
-<h1>Web servers</h1>
+<h2>Web servers</h2>
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nginx" />
