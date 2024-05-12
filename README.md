@@ -30,7 +30,7 @@ Our extensive expertise spans a wide spectrum of IT and software domains, includ
 
 <h2>Let's Shape Your Digital Future</h2>
 
-In a world where technology is the driving force behind progress, partnering with [Your Company Name] means having a dedicated team of experts by your side. Together, we'll leverage technology to propel your business to new heights.
+In a world where technology is the driving force behind progress, partnering with Innorise Ltd means having a dedicated team of experts by your side. Together, we'll leverage technology to propel your business to new heights.
 
 Contact us today to embark on a transformative journey toward a digitally empowered future.
 <h2>Web development</h2>
