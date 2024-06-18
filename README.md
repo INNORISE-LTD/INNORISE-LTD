@@ -6,7 +6,7 @@ At Innorise Ltd, we are your trusted partner in navigating the ever-evolving lan
 
 Our extensive expertise spans a wide spectrum of IT and software domains, including but not limited to:
 
-<b></b>Software Development: Our talented developers are adept at crafting bespoke software solutions tailored to your unique business needs. From web and mobile applications to enterprise software, we bring your ideas to life with precision and efficiency.
+<b></b>Software Development:</b> Our talented developers are adept at crafting bespoke software solutions tailored to your unique business needs. From web and mobile applications to enterprise software, we bring your ideas to life with precision and efficiency.
 
 <b>IT Strategy:</b> We understand that technology is a powerful driver of business success. Our consultants work closely with you to formulate IT strategies that align with your organizational goals, ensuring that technology enhances your competitive edge.
 
