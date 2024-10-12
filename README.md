@@ -43,7 +43,7 @@ Contact us today to embark on a transformative journey toward a digitally empowe
 <b>Backend</b>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,bun,typescript,mongodb,redis" />
+    <img src="https://skillicons.dev/icons?i=nodejs,bun,typescript,mongodb,postgres,redis" />
   </a>
 </p>
 
